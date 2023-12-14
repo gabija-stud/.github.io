@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud</title>
+    
+    
+    
+    <link>https://gabija-stud.github.io.git/</link>
+    <description>Recent content on Cloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2023 18:50:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://gabija-stud.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sveiki</title>
+      <link>https://gabija-stud.github.io.git/posts/hallo/</link>
+      <pubDate>Thu, 14 Dec 2023 18:50:06 +0200</pubDate>
+      
+      <guid>https://gabija-stud.github.io.git/posts/hallo/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hello, Hi, Taip, Sveiki. Gali būti.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
